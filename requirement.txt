@@ -22,7 +22,7 @@ measurement==1.8.0
 more-itertools==10.1.0
 oauth2client==4.0.0
 opensearch-py==1.1.0
-polib==1.0.8
+polib==1.2.0
 premailer==3.10.0
 psycopg2==2.8.2
 pycountry==18.2.23
