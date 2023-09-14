@@ -29,7 +29,7 @@ pycountry==18.2.23
 pylzma==0.4.9
 python-dateutil==2.8.*
 regex==2016.1.10
-requests==2.28.2
+requests==2.31.0
 rsa==4.9
 sentry-sdk==1.29.2
 six==1.12.0
