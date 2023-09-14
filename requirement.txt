@@ -53,7 +53,7 @@ pgcli
 protobuf~=3.19.6
 celery~=5.3.1
 pytz   # should be latest
-py-moneyed==1.2
+py-moneyed==3.0
 pydantic==1.8.2
 python-json-logger==2.0.2
 elasticsearch-dsl==6.4.0
