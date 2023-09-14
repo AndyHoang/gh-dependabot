@@ -16,7 +16,7 @@ dnspython==2.4.2
 drf-extensions==0.7.1
 futures==3.1.1
 geoip2==4.7.0
-gunicorn==19.6.0
+gunicorn==21.2.0
 Markdown==3.4.4
 measurement==3.2.2
 more-itertools==10.1.0
