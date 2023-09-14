@@ -39,7 +39,7 @@ mock==5.1.0
 -e git+https://github.com/NICTA/pyairports.git#egg=pyairports
 django-ipware==5.0.0
 tblib~=2.0
-tqdm==4.31.1
+tqdm==4.66.1
 serpy==0.3.1
 guppy3
 jsonschema==4.19.0
