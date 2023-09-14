@@ -46,7 +46,7 @@ jsonschema==3.0.0
 xlsxwriter==1.2.6
 django-timezone-field==4.2.3 # pinned version, make sure testing before upgrade
 timezonefinder==6.2.0 # pinned version, make sure testing before upgrade
-python-magic==0.4.15 # parcel_pod support all extensions
+python-magic==0.4.27 # parcel_pod support all extensions
 smart_open==2.1.0   # upload shipment document
 ulid2==0.3.*
 pgcli
