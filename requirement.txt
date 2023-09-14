@@ -1,6 +1,6 @@
 
 APScheduler~=3.9.1
-boto3~=1.23.10
+boto3~=1.28.47
 Django~=2.2.28
 django-appconf==1.0.2
 django-cors-headers==2.5.1
