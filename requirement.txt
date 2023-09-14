@@ -1,5 +1,5 @@
 
-APScheduler~=3.9.1
+APScheduler~=3.10.4
 boto3~=1.28.47
 Django~=4.2.5
 django-appconf==1.0.5
