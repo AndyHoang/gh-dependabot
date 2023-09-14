@@ -4,7 +4,7 @@ boto3~=1.23.10
 Django~=2.2.28
 django-appconf==1.0.2
 django-cors-headers==2.5.1
-django-measurement==2.4.0
+django-measurement==3.2.4
 django-money==1.1
 django-redis==5.3.0
 fakeredis==2.10.2
