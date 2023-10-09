@@ -37,7 +37,7 @@ smmap==5.0.1
 virtualenv==20.24.5
 mock==5.1.0
 -e git+https://github.com/NICTA/pyairports.git#egg=pyairports
-django-ipware==5.0.0
+django-ipware==5.0.1
 tblib~=2.0
 tqdm==4.66.1
 serpy==0.3.1
