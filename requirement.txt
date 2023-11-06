@@ -61,7 +61,7 @@ pyyaml==6.0
 Pillow~=10.0.1
 factory-boy==3.3.0
 pottery==3.0.0
-prometheus-client~=0.17.1
+prometheus-client~=0.18.0
 drf-yasg~=1.21.7
 opentelemetry-distro==0.41b0
 opentelemetry-instrumentation-django==0.41b0
