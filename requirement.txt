@@ -69,7 +69,7 @@ opentelemetry-instrumentation-psycopg2==0.41b0
 opentelemetry-instrumentation-redis==0.41b0
 opentelemetry-instrumentation-logging==0.41b0
 opentelemetry-instrumentation-wsgi==0.41b0
-opentelemetry-instrumentation-requests==0.41b0
+opentelemetry-instrumentation-requests==0.42b0
 opentelemetry-instrumentation-elasticsearch==0.41b0
 opentelemetry-instrumentation-boto3sqs==0.41b0
 opentelemetry-instrumentation-botocore==0.41b0
