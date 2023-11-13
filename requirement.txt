@@ -51,7 +51,7 @@ smart_open==6.4.0   # upload shipment document
 ulid2==0.3.*
 pgcli
 protobuf~=3.19.6
-celery~=5.3.4
+celery~=5.3.5
 pytz   # should be latest
 py-moneyed==3.0
 pydantic==2.3.0
