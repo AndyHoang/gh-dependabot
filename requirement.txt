@@ -64,7 +64,7 @@ pottery==3.0.0
 prometheus-client~=0.17.1
 drf-yasg~=1.21.7
 opentelemetry-distro==0.41b0
-opentelemetry-instrumentation-django==0.41b0
+opentelemetry-instrumentation-django==0.42b0
 opentelemetry-instrumentation-psycopg2==0.41b0
 opentelemetry-instrumentation-redis==0.41b0
 opentelemetry-instrumentation-logging==0.41b0
