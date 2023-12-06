@@ -56,7 +56,7 @@ pytz   # should be latest
 py-moneyed==3.0
 pydantic==2.3.0
 python-json-logger==2.0.7
-elasticsearch-dsl==6.4.0
+elasticsearch-dsl==8.11.0
 pyyaml==6.0
 Pillow~=10.0.1
 factory-boy==3.3.0
