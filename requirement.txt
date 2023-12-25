@@ -67,7 +67,7 @@ opentelemetry-distro==0.41b0
 opentelemetry-instrumentation-django==0.41b0
 opentelemetry-instrumentation-psycopg2==0.41b0
 opentelemetry-instrumentation-redis==0.41b0
-opentelemetry-instrumentation-logging==0.41b0
+opentelemetry-instrumentation-logging==0.43b0
 opentelemetry-instrumentation-wsgi==0.41b0
 opentelemetry-instrumentation-requests==0.41b0
 opentelemetry-instrumentation-elasticsearch==0.41b0
