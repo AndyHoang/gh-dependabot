@@ -58,7 +58,7 @@ pydantic==2.3.0
 python-json-logger==2.0.7
 elasticsearch-dsl==6.4.0
 pyyaml==6.0
-Pillow~=10.0.1
+Pillow~=10.2.0
 factory-boy==3.3.0
 pottery==3.0.0
 prometheus-client~=0.17.1
