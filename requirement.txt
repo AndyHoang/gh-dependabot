@@ -50,7 +50,7 @@ python-magic==0.4.27 # parcel_pod support all extensions
 smart_open==6.4.0   # upload shipment document
 ulid2==0.3.*
 pgcli
-protobuf~=3.19.6
+protobuf~=4.25.3
 celery~=5.3.4
 pytz   # should be latest
 py-moneyed==3.0
